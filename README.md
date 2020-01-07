@@ -1,6 +1,6 @@
 # laravel-101
-###Day 1 
-####Introduction to Laravel 6 
+### Day 1 
+``Introduction to Laravel `` 
 - Laravel Framework คืออะไรทำไมถึงต้องใช้ 
 - แนะนำ Laravel พร้อม eco system ปัจจุบันของ laravel
 - MVC design patten ของ laravel คืออะไร
@@ -41,8 +41,8 @@
 - Tail log เพื่อ debug ข้อมูล 
 - การเขียน log file และการอ่าน 
 
-###Day 2
-#### Web Interface of Laravel 
+### Day 2
+``Web Interface of Laravel``  
 - สร้าง Web login && register ด้วย artisan command line 
 - Blade template คืออะไร 
 - สร้าง master template 
