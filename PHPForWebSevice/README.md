@@ -5,6 +5,7 @@
 + การติดตั้ง Xamp เพื่อสร้าง ENV สำหรับการพัฒนา Project PHP 
 + การใช้งาน composer ร่วมกับ PHP Project 
 + การใช้งาน git ร่วมกับ source tree เพื่อควบคุม code 
+    + ลืมคำสั่ง git แล้วมาใช้ tools แบบง่าย ๆ
 + รู้จักกับ https://packagist.org/ แหล่งรวบรวม package ของ PHP
 + การใช้งาน postman เพื่อทดสอบการทำงานของ Web Service.
 + สร้าง Mocking Server ด้วย postman เพื่อทดสอบการเชื่อมต่อ
