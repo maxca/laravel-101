@@ -1,4 +1,4 @@
-##Mysql Advance ภาคปฏิบัติ 1 Day
+# Mysql Advance ภาคปฏิบัติ 1 Day
 + Introduction of Database in the world 
 + Relation Database vs Non relation database
 + mysql vs maria db
@@ -42,7 +42,7 @@
     + การเขียน stored procedure 
     + การกำหนด input 
     + การกำหนด output 
-    + วิธิทดสอบ stored procedure
+    + วิธีทดสอบ stored procedure
     + การเรียกใช้งาน stored procedure
 + การทำ trigger 
     + mysql after insert trigger 
