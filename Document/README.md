@@ -6,7 +6,7 @@
 ### ทดสอบ composer ติดตั้งเรียบร้อยหรือไม่ ถ้าไม่มีอะไรผิดพลาดจะไม่แสดง error
 `` composer``
 ### clear cache ของ composer ที่เครื่องตัวเอง
-`` coposer clear``
+`` composer clear``
 ### reload autoload file class ที่เครื่องตัวเองใช้ในกรณี  laravel หาไฟล์ไม่เจอต้อง map path และที่อยู่ของไฟล์ใหม่ 
 `` composer dump``
 ### สร้างโปรเจ็ค laravel ด้วย composer 
