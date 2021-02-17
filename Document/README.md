@@ -1,8 +1,9 @@
 # PHP command
 ### ทดสอบ version php
 `` php --version``
+
+# Composer command
 ### ทดสอบ composer ติดตั้งเรียบร้อยหรือไม่ ถ้าไม่มีอะไรผิดพลาดจะไม่แสดง error
-# Compser command
 `` composer``
 ### clear cache ของ composer ที่เครื่องตัวเอง
 `` coposer clear``
