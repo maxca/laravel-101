@@ -125,11 +125,12 @@
 - ปรกติแล้วโปรแกรมที่จะนำมาสร้างเซิฟเวอร์มีหลายประเภทแต่ที่จะกล่าวถึงคือ web server เช่นของ google, youtube facebook เขาเรียกว่า web server มันมีหน้าที่เปิดให้บริการข้อมูลแก่เครื่องลูกข่าย(client) เมื่อ client เรียกเข้าไปหา (request) เครื่องเซิฟเวอร์จะส่งข้อมูลกลับมา ส่วนใหญ่จะส่งออกมาในลักษณะภาษา html, file (css,js,image),json (javascript object notation) xml อื่น ๆ ซึ่งพวกนี้จะมีโปรแกรมที่ใช้ในการสร้างเซิฟเวอร์เช่น apache, nginx , tomcat ที่นิยมก็มีประมาณนี้ 
 
 ### พื้นฐานเรื่อง php 
-- php เป็นภาษา script language คล้ายกับ javascript เคยมีคนตั้งคำถามว่า php คือภาษาโปรแกรมด้วยหรือ ?​ เป็น opensource ถูกพัฒนามาจาก c, java และ purl 
+- php เป็นภาษา script language คล้ายกับ javascript เคยมีคนตั้งคำถามว่า php คือภาษาโปรแกรมด้วยหรือ ?​ 
+- php เป็น opensource ถูกพัฒนามาจาก c, java และ purl เป็นภาษา server side
 - ลักษะของภาษาโปรแกรมมีสองแบบคือ interpreter และ Compiler
     + interpreter คือแปลภาษาทุกครั้งที่มีคนเรียกสคริปต์ 
     + Compiler ต้องนำไปประมวลผลใหม่
-- script language คือภาษาที่ไม่ต้อง Compiler ใหม่เราจะรู้ error ก็ต่อเมื่่อเรารันโปรแกรม
+- script language คือภาษาที่ไม่ต้อง Compiler ใหม่เราจะรู้ error ก็ต่อเมื่อเรารันโปรแกรม
 - ตัวอย่าง
 ``` php 
 <?php
