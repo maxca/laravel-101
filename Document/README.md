@@ -119,7 +119,8 @@
 `` brew install php@7.4`` 
 ### ติดตั้ง compose ผ่าน brew
 `` brew install composer``
-
+### set bash profile
+`` source ~/.bash_profile``
 
 ### พื้นฐานเรื่อง server 
 - ปรกติแล้วโปรแกรมที่จะนำมาสร้างเซิฟเวอร์มีหลายประเภทแต่ที่จะกล่าวถึงคือ web server เช่นของ google, youtube facebook เขาเรียกว่า web server มันมีหน้าที่เปิดให้บริการข้อมูลแก่เครื่องลูกข่าย(client) เมื่อ client เรียกเข้าไปหา (request) เครื่องเซิฟเวอร์จะส่งข้อมูลกลับมา ส่วนใหญ่จะส่งออกมาในลักษณะภาษา html, file (css,js,image),json (javascript object notation) xml อื่น ๆ ซึ่งพวกนี้จะมีโปรแกรมที่ใช้ในการสร้างเซิฟเวอร์เช่น apache, nginx , tomcat ที่นิยมก็มีประมาณนี้ 
@@ -228,3 +229,8 @@
 
 ?>
 ```
+
+# โครงสร้างของเว็บไซต์
+## HTML
+## CSS
+## Javascript 
