@@ -234,3 +234,13 @@
 ## HTML
 ## CSS
 ## Javascript 
+
+## laravel advance command
+### ติดตั้ง language ของ laravel
+`` composer require laravel-lang/lang:~8.0``
+### ติดตั้ง package template login ของ laravel 8 
+`` composer require laravel/breeze --dev``
+### สร้าง template login ของ laravel 8 
+`` php artisan breeze:install ``  
+### build template javascript ด้วย nodejs 
+`` npm install && npm run dev``
