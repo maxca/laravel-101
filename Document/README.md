@@ -244,3 +244,21 @@
 `` php artisan breeze:install ``  
 ### build template javascript ด้วย nodejs 
 `` npm install && npm run dev``
+
+## ติดตั้ง laravel adminlte ด้วย artisan
+### ติดตั้ง project laravel v.7 ผ่าน composer
+`` composer create-project laravel/laravel:^7.0 laravel-admin --prefer-dist ``
+### ติดตั้ง package jeroennoten/laravel-adminlte ผ่าน composer
+`` composer require jeroennoten/laravel-adminlte ``
+### ติดตั้ง package laravel ui ผ่าน composer 
+`` composer require laravel/ui:^2 ``
+### ติดตั้ง ui authen ผ่าน  artisan
+`` php artisan ui:auth``
+### ติดตั้ง ui controller ผ่าน artisan
+`` php artisan ui:controller``
+### ติดตั้งไฟล์ asset(js,css,blade) ของ adminlte
+`` php artisan adminlte:install --force ``
+### ตรวจสอบสถานะของการติดตั้ง adminlte
+`` php artisan adminlte:status ``
+### compile js ,css ของ adminlte ผ่าน nodejs 
+`` npm install && npm run dev ``
